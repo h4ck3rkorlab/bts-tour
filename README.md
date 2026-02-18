@@ -1,2 +1,0 @@
-# bts-tour
-bts tour
